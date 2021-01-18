@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">智慧施工</string>
+    <string name="Tabmenu_1">首页</string>
+    <string name="Tabmenu_2">调度</string>
+    <string name="Tabmenu_3">施工项目</string>
+    <string name="Tabmenu_4">个人中心</string>
+    <string name="Tabmenu_5">更多功能</string>
+</resources>
